@@ -4,7 +4,7 @@ Hi. Im Lucas, an upcoming passionate software developer,mainly on websites. I lo
 ## About Me
 **Skills:** I have learnt a bit of multiple programmign languages including HTML, CSS, Javascript, Python and C.
 
-**Contact:** official.lucasomondi@gmail.com
+**Contact:** [official.lucasomondi@gmail.com] (mailto:official.lucasomondi@gmail.com)
 
 ## My Projects
 ### Wakra Website
@@ -12,6 +12,6 @@ Hi. Im Lucas, an upcoming passionate software developer,mainly on websites. I lo
 
 **Languages:** The only languages used were HTML5 and CSS.
 
-**Github Link:** https://github.com/Haimanot1/Wakra.git
+**Github Link:** Ceck it out!(https://github.com/Haimanot1/Wakra.git)
 
 
